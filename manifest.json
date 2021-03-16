@@ -1,6 +1,6 @@
 {
-    "name": "creatiques_web",
-    "short_name": "creatiques_web",
+    "name": "website_company",
+    "short_name": "website_company",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

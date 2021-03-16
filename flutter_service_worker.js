@@ -3,25 +3,23 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "e6f022f3cf32fb889af421dfddc092e7",
-"index.html": "6bd8a139445a80c4f50b6a1f9084f17f",
-"/": "6bd8a139445a80c4f50b6a1f9084f17f",
-"main.dart.js": "9e428759c4807b6ad0bd955ed5863392",
+  "version.json": "0555d3ef9424d97f67602ac4ad17fd03",
+"index.html": "14b567133ef748c2d4a288c2db0d4c47",
+"/": "14b567133ef748c2d4a288c2db0d4c47",
+"main.dart.js": "8066e92f7b8c31976e5ade67482274f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "c47628fba037e3ac782307ff970c74db",
-"assets/AssetManifest.json": "75352dd39e8e6b5645cc385c1b071421",
-"assets/NOTICES": "1facd58f71f834fa3314830632cdbcfa",
-"assets/FontManifest.json": "e78d59d5a3104e51e14e54c533c6f9ee",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
+"manifest.json": "0ba7181aad29be34ce71afe8c04faada",
+"assets/AssetManifest.json": "d6c02c1f90d75651dd303d83f7a685eb",
+"assets/NOTICES": "ebcb22e5e0dfc6c6facac4d84c9af8aa",
+"assets/FontManifest.json": "f515c92109da1729913327d09a6f3336",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/images/shot2.png": "c38205883c4571b1f00d9f9879b4b788",
-"assets/assets/images/shot.png": "4076c945cda3e24e0eaf1a08b6918157",
-"assets/assets/images/logo.png": "70d00e40ae25ab177835a8b5ab7d19ce",
+"assets/assets/fonts/KumbhSans-Bold.ttf": "d05420fc15b6aeb2691d6b094a25cc3b",
 "assets/assets/fonts/KumbhSans-Regular.ttf": "c10403b18088ef839ffed1899ab49e4c"
 };
 
